@@ -1,10 +1,19 @@
 package com.jcliz.github.dslist.entities;
 
+import jakarta.persistence.*;
+
 import java.util.Objects;
 
+@Entity
+@Table(name = "tb_game")
 public class Game {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String title;
+
+    @Column(name = "game_year") //customizando o nome da coluna na tabela
     private Integer year;
     private String genre;
     private String platform;
