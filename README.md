@@ -41,6 +41,26 @@ Back-end de uma aplicação web relacionada a uma loja virtual de jogos.
 
 <br>
 
+## Trechos do código:
+
+- GameList
+
+![GameList](https://github.com/user-attachments/assets/5fcf11ca-881f-48b2-ac7a-046d448707be)
+
+<br>
+
+- GameListRepository
+
+![GameListRepository](https://github.com/user-attachments/assets/36feb0b8-1ba1-4996-8b63-46c7dd4953b3)
+
+<br>
+
+- GameListService
+
+![gameListService](https://github.com/user-attachments/assets/29458a56-8568-4861-a595-96ba26c72e34)
+
+<br>
+
 ## Requisitos
 - Java 21
 - Spring boot
