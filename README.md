@@ -12,7 +12,6 @@ Back-end de uma aplicação web relacionada a uma loja virtual de jogos.
 - Banco de dados H2
 - PostgreSQL
 - JPA repository
-- Requisições HTTP
 
 ## Porta
 - localhost:8080
