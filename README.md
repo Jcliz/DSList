@@ -11,7 +11,7 @@ Back-end de uma aplicação web relacionada a uma loja virtual de jogos.
 - Spring Boot
 - Banco de dados H2
 - PostgreSQL
-- JPA repository
+- JPA
 
 ## Porta
 - localhost:8080
