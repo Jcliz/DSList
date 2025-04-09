@@ -63,4 +63,3 @@ Back-end de uma aplicação web relacionada a uma loja virtual de jogos.
 
 ## Requisitos
 - Java 21
-- Spring boot
